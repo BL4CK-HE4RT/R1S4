@@ -4,12 +4,12 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
 #!/usr/bin/python3
-import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
+import os,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
 import random
-import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
+import os,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as tred
 import base64
