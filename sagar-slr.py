@@ -20,7 +20,7 @@ import mechanize
 from requests.exceptions import ConnectionError
 import string
 import os
-import Sagar
+
 try:
     import requests
 except ImportError:
